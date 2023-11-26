@@ -405,7 +405,6 @@ local macroMapList = {
 		'Storm Hideout (Final)',
 		'West City',
 		'Bizzare Town',
-
 		'Hidden Sand Village',
 		'Shiganshinu District',
 		'Undead Tomb'
