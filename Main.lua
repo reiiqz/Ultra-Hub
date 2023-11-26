@@ -124,7 +124,7 @@ local portalWorlds = {
 	hxhant_infinite = 'Ant Kingdom (Summer)',
 	opm_infinite = 'Alien Spaceship (Underwater)',
 	eclipse_portal = 'The Eclipse',
-	port_agency_portal = 'Port Agency Portal',
+	port_agency_portal = 'Sky Club',
 }
 
 local Bonuses = {
@@ -424,6 +424,7 @@ local macroMapList = {
 		'The Eclipse',
 		'Alien Spaceship (Final)',
 		'Puppet Island (Birdcage)'
+		'Port Agency Portal',
 
 	};
 
