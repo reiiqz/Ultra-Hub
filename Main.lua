@@ -61,7 +61,7 @@ local DefaultFiles = {
 		['Ignore Worlds Delete'] = {};
 		['Ignore Bonus Delete'] = {};
 
-		['PortalUSE Portals'] = {Port Agency Portal};
+		['PortalUSE Portals'] = {};
 		['PortalUSE Tiers'] = {};
 		['PortalUSE Difficulties Ignore'] = {};
 		['PortalUSE Worlds Ignore'] = {};
@@ -124,7 +124,7 @@ local portalWorlds = {
 	hxhant_infinite = 'Ant Kingdom (Summer)',
 	opm_infinite = 'Alien Spaceship (Underwater)',
 	eclipse_portal = 'The Eclipse',
-	bsd = 'Sky Club',
+	Sky Club = 'Detective Mission',
 }
 
 local Bonuses = {
