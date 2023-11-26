@@ -61,7 +61,7 @@ local DefaultFiles = {
 		['Ignore Worlds Delete'] = {};
 		['Ignore Bonus Delete'] = {};
 
-		['PortalUSE Portals'] = {};
+		['PortalUSE Portals'] = {Port Agency Portal};
 		['PortalUSE Tiers'] = {};
 		['PortalUSE Difficulties Ignore'] = {};
 		['PortalUSE Worlds Ignore'] = {};
