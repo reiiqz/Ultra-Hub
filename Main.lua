@@ -4494,7 +4494,7 @@ task.spawn(function()
 	pcall(function()
 
 		if queue_on_teleport then
-			local UltraHubSCRIPT = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/reiiqz/Ultra-Hub/main/Main.lua",true))()'
+			local UltraHubSCRIPT = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/reiiqz/Ultra-Hub/main/Main.lua"))()'
 			queue_on_teleport(UltraHubSCRIPT)
 		end
 
