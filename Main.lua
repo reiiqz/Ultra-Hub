@@ -124,7 +124,7 @@ local portalWorlds = {
 	hxhant_infinite = 'Ant Kingdom (Summer)',
 	opm_infinite = 'Alien Spaceship (Underwater)',
 	eclipse_portal = 'The Eclipse',
-	Sky_Club = 'Detective Mission',
+	bsd_portal = 'Sky Club (Detective Mission)',
 }
 
 local Bonuses = {
