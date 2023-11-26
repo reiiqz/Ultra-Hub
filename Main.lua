@@ -423,7 +423,6 @@ local macroMapList = {
 		'The Eclipse',
 		'Alien Spaceship (Final)',
 		'Puppet Island (Birdcage)'
-                'Port Agency (Bsd)'
 
 	};
 
