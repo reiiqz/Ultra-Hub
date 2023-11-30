@@ -597,7 +597,7 @@ HubTitle.ZIndex = 10001
 HubTitle.Font = Enum.Font.GothamBlack
 HubTitle.TextColor3 = Color3.fromRGB(255,255,255)
 HubTitle.TextScaled = true
-HubTitle.Text = 'ULTRA HUB - BETA'
+HubTitle.Text = 'OXYHUB - BETA'
 
 
 TopBarSizes = {
