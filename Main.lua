@@ -124,7 +124,7 @@ local portalWorlds = {
 	hxhant_infinite = 'Ant Kingdom (Summer)',
 	opm_infinite = 'Alien Spaceship (Underwater)',
 	eclipse_portal = 'The Eclipse',
-	Sky_Club = 'Detective Mission',
+	Port_Agency_Portal = 'Detective Mission',
 }
 
 local Bonuses = {
@@ -405,7 +405,6 @@ local macroMapList = {
 		'Storm Hideout (Final)',
 		'West City',
 		'Bizzare Town',
-
 		'Hidden Sand Village',
 		'Shiganshinu District',
 		'Undead Tomb'
