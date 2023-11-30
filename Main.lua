@@ -105,7 +105,7 @@ local DefaultFiles = {
 
 }
 
-local PortalsList = {'Alien Portal', 'Summer Portal', 'Eclipse Portal', 'Puppet Portal', "Port Agency Portal"}
+local PortalsList = {'Alien Portal', 'Summer Portal', 'Eclipse Portal', 'Puppet Portal', 'Port Agency Portal'}
 local DifficultiesName = {
 	double_cost = 'High Cost',
 	fast_enemies = 'Fast Enemies',
@@ -124,7 +124,7 @@ local portalWorlds = {
 	hxhant_infinite = 'Ant Kingdom (Summer)',
 	opm_infinite = 'Alien Spaceship (Underwater)',
 	eclipse_portal = 'The Eclipse',
-	bsd_portal = "Sky Club",
+	Detective_Mission = "Sky Club",
 }
 
 local Bonuses = {
